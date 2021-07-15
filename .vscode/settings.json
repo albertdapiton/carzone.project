@@ -1,0 +1,4 @@
+# I use pylance now. I added this. Problem solved.
+"python.analysis.extraPaths": ["./../../carzone_project"],
+# I tried this before, but not working. 
+"python.autoComplete.extraPaths": ["./../../carzone_project"],
